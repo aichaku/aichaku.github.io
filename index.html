@@ -29,5 +29,15 @@ function drop(ev) {
 <img id="drag1" src="tn-p_lorri_fullframe_color.jpg" draggable="true" ondragstart="drag(event)"
 width="336" height="69">
 
+<div id="posts">
+<ul>
+  {% for post in site.posts %}
+  <li>
+  <a href="{{ post.url }}">{{ post.title }}</a>
+   </li>
+                  {% endfor %}
+                  </ul>
+</div>
+
 </body>
 </html>
