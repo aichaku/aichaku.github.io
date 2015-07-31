@@ -5,7 +5,7 @@ title: The Longest Palindrome Subsequence
 
 # {{ page.title }}
 
-'''c
+'''
 #include <stdio.h>
 #include <string.h>
 
