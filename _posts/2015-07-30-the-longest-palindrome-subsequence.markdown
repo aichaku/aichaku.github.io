@@ -5,7 +5,7 @@ title: The Longest Palindrome Subsequence
 
 # {{ page.title }}
 
-'''
+```
 #include <stdio.h>
 #include <string.h>
 
@@ -30,4 +30,4 @@ int main()
 	char str[] = "character";
 	printf("the longest palindrome subsequence is {%s} [%d]", "N/A", lps(str, 0, strlen(str)));
 }
-'''
+```
