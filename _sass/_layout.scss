@@ -17,6 +17,7 @@ main {
         }
     }
     .site-nav {
+      clear: both;
         > a {
             color: $text-color;
             &:hover {
