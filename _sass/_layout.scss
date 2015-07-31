@@ -6,6 +6,7 @@ main {
 }
 .site-header {
     .site-title-img {
+        vertical-align:middle;
         float:left;
     }
     .site-title {
@@ -17,7 +18,7 @@ main {
         }
     }
     .site-nav {
-      clear: both;
+        clear: both;
         > a {
             color: $text-color;
             &:hover {
