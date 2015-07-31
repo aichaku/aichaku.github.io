@@ -5,7 +5,11 @@ main {
     padding: 0 2rem;
 }
 .site-header {
+    .site-title-img {
+        float:left;
+    }
     .site-title {
+        float: left;
         font-weight: 300;
         > a {
             color: $text-color;
