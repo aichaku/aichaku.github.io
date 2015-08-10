@@ -1,13 +1,24 @@
-title: idea note
-baseurl: ""
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-date_format: "%Y-%m-%d"
+# Permalinks
+permalink:        pretty
 
-google_analytics:
-disqus_shortname:
+# Setup
+title:            idea note
+tagline:          'issues and languages'
+description:      'useless thoughts'
+url:              http://aichaku.github.io
 
-# Build settings
-markdown:     redcarpet
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
+author:
+  name:           'Dongwoo Lee'
+  url:            https://www.facebook.com/aichaku
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/aichaku
