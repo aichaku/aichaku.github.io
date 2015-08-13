@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Public Key Infrastructure
+category: d
+tags: [software, security]
 ---
 
 ### What is Certificate Authorities?
