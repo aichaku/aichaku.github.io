@@ -382,10 +382,15 @@ tbody tr:nth-child(odd) th {
   color: #9a9a9a;
 }
 
-.post-category {
-    font-size: 50%;
+.post-category-title {
+    font-size: 75%;
     color: #999;
     float: left;
+}
+
+.post-category {
+    font-size: 75%;
+    color: #999;
 }
 
 /* Related posts */
