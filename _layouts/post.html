@@ -10,13 +10,15 @@ layout: default
     <span class="post-date">{{ category }}</span>
   {% endfor %}
 
-  <ul class="post-tags">
-    {% for tag in page.tags %}
-      <li><a href="#" class="post-tag">{{ tag }}</a></li>
-    {% endfor %}
-  </ul>
-
   {{ content }}
+</div>
+
+<div class="post">
+    <ul class="post-tags">
+      {% for tag in page.tags %}
+        <li><a href="#" class="post-tag">{{ tag }}</a></li>
+      {% endfor %}
+    </ul>
 </div>
 
 <div class="related">
