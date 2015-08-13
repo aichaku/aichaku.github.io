@@ -1,6 +1,8 @@
 ---
 layout: post
 title: China received the top rating with the Philippines in the second place
+category: english
+tags: [english, sample]
 ---
 
 * China received the top rating with the Philippines in the second place.
