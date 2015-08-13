@@ -382,6 +382,12 @@ tbody tr:nth-child(odd) th {
   color: #9a9a9a;
 }
 
+.post-category {
+    font-size: 50%;
+    color: #999;
+    float: left;
+}
+
 /* Related posts */
 .related {
   padding-top: 2rem;
