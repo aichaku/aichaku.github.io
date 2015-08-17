@@ -18,3 +18,7 @@ There are 3 common tree traversals
 3. post-order traversal
   * left, right, root
   * This is the depth-first approach. So we can use this traversal when we free the memories assigned to nodes.
+
+
+Related link
+* [Tree Traversals from UCLA](http://www.math.ucla.edu/~wittman/10b.1.10w/Lectures/Lec18.pdf)
