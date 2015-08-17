@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Expressions from Arirang Radio
+title: Tree Traversal
 category: d
 tags: [algorithm]
 ---
 
-### Tree Traversal
+
+** NOTE: Sample source codes will be uploaded soon.**
+
+### Why do we use tree traversal algorithm?
 A tree traversal refers to a specific order in which to trace the nodes of a tree.
 There are 3 common tree traversals
 
