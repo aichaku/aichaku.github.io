@@ -2,7 +2,7 @@
 layout: post
 title: The weather in my country
 category: english
-tags: []
+tags: [speaking]
 ---
 
 <p class="questions">
