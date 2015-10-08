@@ -7,22 +7,7 @@ tags: [speaking]
 
 ### To Add:
 
- * and
- * again
- * and then
- *  besides
- * equally important
- * finally
- * further
- * furthermore
- * nor
- * too
- * next
- * lastly
- * what's more
- * moreover
- * in addition
- * first (second, etc.)
+and, again, and then, besides, equally important, finally, further, furthermore, nor, too, next, lastly, what's more, moreover, in addition, first (second, etc.)
 
 ### To Compare:
 
