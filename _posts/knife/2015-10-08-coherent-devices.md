@@ -2,7 +2,7 @@
 layout: post
 title: Coherent devices
 category: english
-tags: [speaking]
+tags: [speaking, cohesive device]
 ---
 
 ### To Add:
