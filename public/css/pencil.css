@@ -20,10 +20,10 @@ html {
   font-size: 100%;
   color: #fff;
   background-color: #327CCB;
-  float: left;
+  float: right;
 }
 
 .post-category {
-  clear: left;
+  /* clear: both; */
   color: #999;
 }
