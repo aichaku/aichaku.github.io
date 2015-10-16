@@ -12,5 +12,6 @@ html {
 }
 
 .post-title {
+  font-weight: normal;
   font-family: 'Exo 2', sans-serif;
 }
