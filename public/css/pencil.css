@@ -6,6 +6,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato);
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 @import url(https://fonts.googleapis.com/css?family=Exo+2:400,100);
+@import url(https://fonts.googleapis.com/css?family=Architects+Daughter);
 
 html {
   font-family: 'Lato', 'Nanum Gothic', sans-serif;
@@ -31,4 +32,8 @@ html {
 
 .post-category-label .center {
   margin: auto;
+}
+
+.masthead-title {
+	font-family: 'Architects Daughter', cursive;
 }
