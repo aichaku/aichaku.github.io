@@ -18,17 +18,10 @@ html {
 
 .post-category-label {
   color: #fff;
-  background-color: #327CCB;
+  background-color: #333;
 }
 
 .post-category {
   font-size: 100%;
-  float: left;
   color: #999;
-}
-
-.post-devider {
-  clear: both;
-  margin: 0px 0px;
-  padding: 0px 0px;
 }
