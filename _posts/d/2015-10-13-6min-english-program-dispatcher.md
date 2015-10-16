@@ -125,8 +125,7 @@ ncalls  tottime percall cumtime percall filename:lineno(function)
 105293  0.098   0       0.098   0       socket.py:398(readable)
 1       0.093   0.093   537.655 537.655 Deaton.py:25(get_mp3)
 ```
-This result showed that receiving web contents took a large portion due to network latency.
-
+This result showed that receiving web contents took a large portion due to network latency. So I concluded that adopting threads to carry out receiving data from network is quite reasonable. Thus, I wrote codes like below.
 
 ```python
 # -*- coding: utf-8 -*-
@@ -188,3 +187,5 @@ def get_mp3():
 if __name__ == '__main__':
     get_mp3()
 ```
+
+It showed better performance and I was satisfied, but still there would be some modification in the design of whole program in terms of maintenance or gui.
