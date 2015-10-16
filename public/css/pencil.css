@@ -19,6 +19,8 @@ html {
 .post-category-label {
   color: #fff;
   background-color: #333;
+  width: 150px;
+  margin: auto;
 }
 
 .post-category {
