@@ -7,7 +7,9 @@ layout: default
   <span class="post-date">{{ page.date | date_to_long_string }}</span>
 
   <div>
-    <div class="post-category-label"> category</div>
+    <div class="post-category-label">
+      <div class="center">category</div>
+    </div>
     <span class="post-category">
       {% for category in page.categories %}
         {{ category }}, 
