@@ -17,13 +17,18 @@ html {
 }
 
 .post-category-label {
-  font-size: 100%;
   color: #fff;
   background-color: #327CCB;
-  float: right;
 }
 
 .post-category {
-  /* clear: both; */
+  font-size: 100%;
+  float: left;
   color: #999;
+}
+
+.post-devider {
+  clear: both;
+  margin: 0px 0px;
+  padding: 0px 0px;
 }
