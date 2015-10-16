@@ -126,67 +126,6 @@ ncalls  tottime percall cumtime percall filename:lineno(function)
 1       0.093   0.093   537.655 537.655 Deaton.py:25(get_mp3)
 ```
 This result showed that receiving web contents took a large portion due to network latency. So I concluded that adopting threads to carry out receiving data from network is quite reasonable. Thus, I wrote codes like below.
-
-```python
-# -*- coding: utf-8 -*-
-
-import feedparser
-import requests
-from bs4 import BeautifulSoup
-import gc
-import cProfile
-from threading import Thread
-
-def do_cprofile(func):
-    def profiled_func(*args, **kwargs):
-        profile = cProfile.Profile()
-        try:
-            profile.enable()
-            result = func(*args, **kwargs)
-            profile.disable()
-            return result
-        finally:
-            profile.print_stats()
-    return profiled_func
-
-def is_valid_file(length):
-    if length < 5000000:
-        raise TypeError
-
-@do_cprofile
-def get_mp3_(item):
-    p = requests.get(item.link)
-    soup = BeautifulSoup(p.text, 'html.parser')
-
-    try:
-        link = soup.find('a', class_='bbcle-download-extension-mp3')['href']
-        name = link.split('/')[-1]
-
-        mp3 = requests.get(link)
-
-        is_valid_file(len(mp3.content))
-
-        with open(name, 'wb') as f:
-            f.write(mp3.content)
-
-        del(mp3)
-
-    except TypeError as e:
-        print('the page does not include a mp3 file')
-
-    del(p, soup)
-
-@do_cprofile
-def get_mp3():
-    rss = feedparser.parse('http://feeds.bbci.co.uk/learningenglish/english/features/6-minute-english/rss')
-
-    for item in rss.entries:
-        t = Thread(target=get_mp3_, args=(item,))
-        t.start()
-
-if __name__ == '__main__':
-    get_mp3()
-```
 <script src="https://gist.github.com/aichaku/c256fb6a996a6e41c95f.js"></script>
 
 It showed better performance and I was satisfied, but still there would be some modification in the design of whole program in terms of maintenance or gui.
