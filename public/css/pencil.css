@@ -3,10 +3,10 @@
  *
  */
 
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
 html {
-  /*font-family: "PT Serif", Georgia, "Times New Roman", serif;*/
-  font-family: 'Tangerine', serif;
-  font-size: 48px;
+  font-family: 'Lato', 'Nanum Gothic', sans-serif;
 }
 
