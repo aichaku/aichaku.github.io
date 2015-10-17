@@ -337,7 +337,7 @@ tbody tr:nth-child(odd) th {
 
 .post-tag {
   background: #eee;
-  border-radius: 3px 0 0 3px;
+/*  border-radius: 3px 0 0 3px; */
   color: #999;
   display: inline-block;
   height: 26px;
@@ -346,9 +346,11 @@ tbody tr:nth-child(odd) th {
   position: relative;
   margin: 0 10px 10px 0;
   text-decoration: none;
+  border: 1px solid #A6A93C;
   -webkit-transition: color 0.2s;
 }
 
+/*
 .post-tag::before {
   background: #fff;
   border-radius: 10px;
@@ -371,15 +373,18 @@ tbody tr:nth-child(odd) th {
   right: 0;
   top: 0;
 }
+*/
 
 .post-tag:hover {
   background-color: crimson;
   color: white;
 }
 
+/*
 .post-tag:hover::after {
    border-left-color: crimson;
 }
+*/
 
 /* Meta data line below post title */
 .post-date {

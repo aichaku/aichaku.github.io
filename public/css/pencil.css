@@ -7,13 +7,14 @@
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 @import url(https://fonts.googleapis.com/css?family=Exo+2:400,100);
 @import url(https://fonts.googleapis.com/css?family=Architects+Daughter);
+@import url(https://fonts.googleapis.com/css?family=Yantramanav:400,100);
 
 html {
   font-family: 'Lato', 'Nanum Gothic', sans-serif;
 }
 
 .post-title {
-  font-family: 'Architects Daughter', cursive;
+  font-family: 'Yantramanav', sans-serif;
   font-weight: 100;
 }
 
@@ -37,3 +38,4 @@ html {
 .masthead-title {
 	font-family: 'Architects Daughter', cursive;
 }
+
