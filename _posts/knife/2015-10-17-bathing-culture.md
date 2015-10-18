@@ -33,7 +33,7 @@ Here is the sentence I want to use: "If we are fortunate enough to win your busi
 ```
 
 이 질문에 대한 답변은 아래와 같다.<br/>
-In your example, I think you would want to say "fortunate enough." Saying, "If we are fortunate to win your business" does not sound right. You need to include the adverb "enough" in this sentence so that people know how you are being fortunate. If you do not wish to use "enough," you could say, "If we are so fortunate as to win your business," but you need to use something other than just "fortunate" by itself. 
+In your example, I think you would want to say "fortunate enough." Saying, "If we are fortunate to win your business" does not sound right. You need to include the adverb "enough" in this sentence so that people know how you are being fortunate. If you do not wish to use "enough," you could say, "If we are so fortunate as to win your business," but you need to use something other than just "fortunate" by itself.
 
 왜 그럴까?
 
