@@ -73,34 +73,18 @@ body {
   height: 20px;
 }
 
-.global-menu> ul {
-  display: block;
-  -webkit-margin-before: 1em;
-  -webkit-margin-after: 1em;
-  -webkit-margin-start: 0px;
-  -webkit-margin-end: 0px;
-  -webkit-padding-start: 40px;
-}
-
 .menu-list {
-  float: left;
-  margin: 0;
   padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
 }
 
 .menu-list > li {
   float: left;
-  position: relative;
   display: block;
-  text-align: -webkit-match-parent;
 }
 
 .menu-list > li > a {
   color: #fff;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 18px;
   padding: 0 10px;
-  display: inline;
 }
