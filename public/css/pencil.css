@@ -59,6 +59,12 @@ body {
   font-weight: 300;
 }
 
-.sample-sentences{
+.sample-sentences .sample-sentence {
   background-color: #eee;
+}
+
+.blog-logo {
+  max-height: 50px;
+  border: 0px;
+  vertical-align: middle;
 }
