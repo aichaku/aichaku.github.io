@@ -77,11 +77,11 @@ ul {
 }
 
 .global-menu {
+  float: left;
+  margin: 0;
   padding-left: 0;
   font-family: 'Yantramanav', sans-serif;
   font-weight: 300;
-  margin-left:  auto;
-  margin-right: auto;
 }
 
 .menu-list {
