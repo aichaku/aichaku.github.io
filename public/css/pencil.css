@@ -13,6 +13,16 @@ html {
   font-family: 'Lato', 'Nanum Gothic', sans-serif;
 }
 
+body {
+  background-color: #f4f4f4;
+  color: #4cc2bf;
+}
+
+.post {
+  padding: 30px;
+  border-radius: 3px;
+}
+
 .post-title {
   font-family: 'Yantramanav', sans-serif;
   font-weight: 100;
@@ -46,4 +56,8 @@ html {
 
 .sample-sentences{
   background-color: #eee;
+}
+
+.title-area {
+  background-color: #333;
 }
