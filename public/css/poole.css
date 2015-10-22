@@ -200,12 +200,6 @@ blockquote p:last-child {
   }
 }
 
-img {
-  display: block;
-  margin: 0 0 1rem;
-  border-radius: 5px;
-}
-
 /* Tables */
 table {
   margin-bottom: 1rem;
@@ -284,6 +278,7 @@ tbody tr:nth-child(odd) th {
   padding-bottom: 1rem;
   margin-bottom: 3rem;
 }
+
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;

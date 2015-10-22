@@ -50,6 +50,10 @@ body {
 .masthead {
   background-color: #333;
   border-bottom: none;
+  padding-top:    1rem;
+  padding-bottom: 1rem;
+  margin-bottom: 3rem;
+}
 }
 
 .masthead-tagline {
@@ -63,8 +67,6 @@ body {
 
 .blog-logo {
   max-height: 50px;
-  border: 0px;
-  vertical-align: middle;
   margin-bottom: 0px;
 }
 
@@ -77,6 +79,7 @@ body {
 
 .menu-list {
   padding-left: 0;
+  display: table;
 }
 
 .menu-list > li {
@@ -91,10 +94,10 @@ body {
   padding: 0 10px;
 }
 
-.menu-list:after {
-    clear: both;
-}
-
-.global-menu:before {
+.menu-list:before {
+  display: table;
   content: " ";
+}
+.menu-list:after {
+  clear: both;
 }
