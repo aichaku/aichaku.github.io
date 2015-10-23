@@ -8,6 +8,7 @@
 @import url(https://fonts.googleapis.com/css?family=Exo+2:400,100);
 @import url(https://fonts.googleapis.com/css?family=Architects+Daughter);
 @import url(https://fonts.googleapis.com/css?family=Yantramanav:400,100);
+@import url(https://fonts.googleapis.com/css?family=Roboto:900);
 
 html {
   font-family: 'Lato', 'Nanum Gothic', sans-serif;
@@ -72,8 +73,8 @@ body {
 
 .global-menu {
   padding-left: 0;
-  font-family: 'Yantramanav', sans-serif;
-  font-weight: 300;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
   height: auto;
 }
 
@@ -83,15 +84,15 @@ body {
 }
 
 .menu-list > li {
-  float: left;
-  display: block;
+  display: inline;
 }
 
 .menu-list > li > a {
-  color: #fff;
-  font-weight: 400;
-  font-size: 18px;
-  padding: 0 10px;
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+    padding: 0 10px;
+    margin-left: 12px;
 }
 
 .menu-list:before {
