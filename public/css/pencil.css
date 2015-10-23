@@ -19,15 +19,34 @@ body {
   color: #4cc2bf;
 }
 
+h3 {
+    margin: 1.5rem 0rem;
+    font-size: 1.25rem;
+    border-top: 1px solid #eee;
+    padding-top: 2rem;
+}
+
+a {
+  color: #818181;
+}
+
 .post {
   padding: 30px;
   border-radius: 3px;
   background-color: #fff;
 }
 
+.post > p {
+    color: #515151;
+}
+
 .post-title {
   font-family: 'Yantramanav', sans-serif;
   font-weight: 100;
+}
+
+.page-title, .post-title, .post-title a {
+    color: #4cc2bf;
 }
 
 .post-category-label {
@@ -102,3 +121,11 @@ body {
 .menu-list:after {
   clear: both;
 }
+
+.sample-sentence {
+    color: #000;
+    background-color: #f4f4f4;
+    padding: 1rem;
+    margin-bottom: 0.7rem;
+}
+
