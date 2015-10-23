@@ -8,7 +8,7 @@
 @import url(https://fonts.googleapis.com/css?family=Exo+2:400,100);
 @import url(https://fonts.googleapis.com/css?family=Architects+Daughter);
 @import url(https://fonts.googleapis.com/css?family=Yantramanav:400,100);
-@import url(https://fonts.googleapis.com/css?family=Roboto:900);
+@import url(https://fonts.googleapis.com/css?family=Roboto:800);
 
 html {
   font-family: 'Lato', 'Nanum Gothic', sans-serif;
@@ -71,7 +71,7 @@ a {
   background-color: #333;
   border-bottom: none;
   padding-top:    1rem;
-  padding-bottom: 0;
+  padding-bottom: 0.25rem;
   margin-bottom: 1rem;
 }
 }
@@ -87,31 +87,30 @@ a {
 
 .blog-logo {
   max-height: 50px;
-  margin-bottom: 0px;
+  margin-bottom: 0.75rem;
 }
 
 .global-menu {
   padding-left: 0;
   font-family: 'Roboto', sans-serif;
-  font-weight: 900;
   height: auto;
 }
 
 .menu-list {
   padding-left: 0;
-  display: table;
+  margin-left: 20px;
 }
 
 .menu-list > li {
   display: inline;
+  padding: 0px;
+  margin-right: 12px;
 }
 
 .menu-list > li > a {
-    color: #fff;
-    font-weight: 400;
-    font-size: 14px;
-    padding: 0 10px;
-    margin-left: 12px;
+  color: #fff;
+  font-weight: 400;
+  font-size: 14px;
 }
 
 .menu-list:before {
