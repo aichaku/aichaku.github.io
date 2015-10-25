@@ -3,15 +3,11 @@
  *
  */
 
-@import url(https://fonts.googleapis.com/css?family=Lato);
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
-@import url(https://fonts.googleapis.com/css?family=Exo+2:400,100);
-@import url(https://fonts.googleapis.com/css?family=Architects+Daughter);
-@import url(https://fonts.googleapis.com/css?family=Yantramanav:400,100);
-@import url(https://fonts.googleapis.com/css?family=Roboto:700);
+@import url(https://fonts.googleapis.com/css?family=Questrial);
 
 html {
-  font-family: 'Lato', 'Nanum Gothic', sans-serif;
+  font-family: 'Questrial', 'Nanum Gothic', sans-serif;
 }
 
 body {
@@ -41,8 +37,7 @@ a {
 }
 
 .post-title {
-  font-family: 'Yantramanav', sans-serif;
-  font-weight: 100;
+  font-weight: bold;
 }
 
 .page-title, .post-title, .post-title a {
@@ -68,17 +63,11 @@ a {
 }
 
 .masthead {
-  background-color: #333;
+  background-color: #fff;
   border-bottom: none;
   padding-top:    1rem;
   padding-bottom: 0.25rem;
   margin-bottom: 1rem;
-}
-}
-
-.masthead-tagline {
-  font-family: 'Yantramanav', sans-serif;
-  font-weight: 300;
 }
 
 .sample-sentences .sample-sentence {
@@ -86,13 +75,16 @@ a {
 }
 
 .blog-logo {
-  max-height: 50px;
+  color: #848484;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: bold;
+  font-stretch: expanded;
   margin-bottom: 0.75rem;
 }
 
 .global-menu {
   padding-left: 0;
-  font-family: 'Roboto', sans-serif;
   height: auto;
 }
 
@@ -111,14 +103,6 @@ a {
   color: #fff;
   font-weight: 400;
   font-size: 14px;
-}
-
-.menu-list:before {
-  display: table;
-  content: " ";
-}
-.menu-list:after {
-  clear: both;
 }
 
 .sample-sentence {
