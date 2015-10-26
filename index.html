@@ -2,8 +2,11 @@
 layout: default
 ---
 
+{% assign page_category = 'english' %}
+
 <div class="posts">
   {% for post in paginator.posts %}
+    {% if post.tags != page_category %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
@@ -15,6 +18,7 @@ layout: default
 
     {{ post.content }}
   </div>
+    {% endif %}
   {% endfor %}
 </div>
 
