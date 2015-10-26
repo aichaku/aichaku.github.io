@@ -65,9 +65,18 @@ a {
 .masthead {
   background-color: #fff;
   border-bottom: none;
-  padding-top:    1rem;
-  padding-bottom: 0.25rem;
-  margin-bottom: 1rem;
+  padding-top: 50px;
+  padding-left: 40px;
+  margin-bottom: 0;
+  position: absolute;
+  width: 280px;
+}
+
+.container {
+  max-width: 38rem;
+  padding-left:  1rem;
+  padding-right: 1rem;
+  margin-left:  280px;
 }
 
 .sample-sentences .sample-sentence {
@@ -77,10 +86,7 @@ a {
 .blog-logo {
   color: #848484;
   font-size: 22px;
-  font-style: italic;
   font-weight: bold;
-  font-stretch: expanded;
-  margin-bottom: 0.75rem;
 }
 
 .global-menu {
