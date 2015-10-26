@@ -13,14 +13,17 @@ tags: [python, software]
 Even though the singleton design pattern is more likely to draw attention due to its catchy name, is is not recommended to use this pattern, because it is focusing on identity rather than on state. Unlike this design pattern, the borg design pattern has all instances share state instead.
 
 <div class="python_code">
+<pre>
 class Borg:
     __shared_state = {}
     def __init__(self):
         self.__dict__ = self.__shared_state
     # and whatever else you want in your class -- that's all!
-<div>
+</pre>
+</div>
 
 <div class="python_code">
+<pre>
 def borg(cls):
     cls._state = {}
     orig_init = cls.__init__
@@ -37,7 +40,7 @@ class Foo(object):
 
     def print_args(self):
         print('{}'.format(self.__dict__))
-
+</pre>
 </div>
 
 You are also recommended to read further articles.
