@@ -5,8 +5,7 @@ layout: default
 {% assign page_category = 'english' %}
 
 <div class="posts">
-  {% for post in paginator.posts %}
-    {% if post.tags != page_category %}
+  {% for post in paginator.posts %} {% for  c in post.categories %} {% if c == page_category %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
@@ -18,8 +17,7 @@ layout: default
 
     {{ post.content }}
   </div>
-    {% endif %}
-  {% endfor %}
+  {% endif %} {% endfor %} {% endfor %}
 </div>
 
 <div class="pagination">
