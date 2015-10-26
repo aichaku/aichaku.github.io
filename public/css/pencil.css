@@ -85,6 +85,14 @@ a {
   margin: 0px;
 }
 
+.menu-list > li {
+  display: block;
+  padding: 0px;
+}
+
+.menu-list > li > a {
+}
+
 .menu {
   border-bottom: 2px solid #efefef;
   margin: 10px 25px 10px 5px;
@@ -104,23 +112,6 @@ a {
 .global-menu {
   padding-left: 0;
   height: auto;
-}
-
-.menu-list {
-  padding-left: 0;
-  margin-left: 20px;
-}
-
-.menu-list > li {
-  display: inline;
-  padding: 0px;
-  margin-right: 12px;
-}
-
-.menu-list > li > a {
-  color: #fff;
-  font-weight: 400;
-  font-size: 14px;
 }
 
 .sample-sentence {
