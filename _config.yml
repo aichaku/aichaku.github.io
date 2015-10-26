@@ -15,10 +15,15 @@ author:
   name:           'Dongwoo Lee'
   url:            https://www.facebook.com/aichaku
 
-paginate:         5
+paginate:         6
 
 # Custom vars
 version:          2.0.0
 
 github:
   repo:           https://github.com/aichaku
+
+collections:
+  knife:
+    output: trues
+
