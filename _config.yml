@@ -25,5 +25,5 @@ github:
 
 collections:
   knife:
-    output: trues
+    output: true
 
