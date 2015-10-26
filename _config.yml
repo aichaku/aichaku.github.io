@@ -27,3 +27,9 @@ collections:
   knife:
     output: true
 
+defaults:
+  - scope:
+      path: ""
+      type: knife
+    values:
+      layout: page
