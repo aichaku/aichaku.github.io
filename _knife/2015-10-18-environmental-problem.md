@@ -3,8 +3,11 @@ layout: post
 title: Environmental Problem
 category: english
 tags: [Jhoanna]
+date: 2015-10-18 00:00:00
 ---
 
+### Sample answer to the question about environmental problem in my country
+<div class="sample-sentence">
 Ok, I'm going to talk about a problem with the environment in my country.
 <br/>
 One of the most serious problems at the moment is flooding. This is starting to happen every year and each year it seems to get worse. I think it may be caused by a number of factors. Firstly there has been a lot of deforestation in the north of the country, a lot of it from illegal logging. Because of this, when it rains the water has nothing to soak it up so it just runs down the mountains and into the villages and towns. Another factor may be global warming. Scientists believe that this is causing more severe weather so this may account for the increasing amount of rain that we seem to be seeing. It also means the soil is more dry so again the rain water runs off it rather than being soaked up.
@@ -16,3 +19,4 @@ The government is trying to tackle the problem, but it is not easy. They are try
 I think this problem is a top priority to solve because it has such devastating impacts. As I mentioned before, it causes suffering for so many people and it is also a huge expense for the government and as we are not a rich country we cannot afford this. It means that other services suffer because of a lack of money. There are other problems that my country has but I think that is by far the worst.
 
 So, that is the serious problem in my country, and I only hope that it does not continue to get worse.
+</div>

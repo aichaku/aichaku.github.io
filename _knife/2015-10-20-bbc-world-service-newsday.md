@@ -3,6 +3,7 @@ layout: post
 title: BBC Newsday
 category: english
 tags: [BBC, Newsday]
+date: 2015-10-20 00:00:00
 ---
 
 While I walked [<del>alongside</del>along][1] Yangjae stream, I listened to the BBC World Service radio. The followings are a group of expressions that I found it useful while I listened to it.

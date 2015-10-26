@@ -3,6 +3,7 @@ layout: post
 title: Coherent devices
 category: english
 tags: [speaking, cohesive device]
+date: 2015-10-08 00:00:00
 ---
 
 ### To Add:

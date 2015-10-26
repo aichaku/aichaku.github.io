@@ -3,6 +3,7 @@ layout: post
 title: Memorandum of understanding
 category: english
 tags: [BBC]
+date: 2015-10-21 00:00:00
 ---
 
 While I listened to the BBC World Service radio programme, I realized that I have still long way to go in studing English. It seems that I still use a lot of awkward expressions the native speakers never use or simply out of fashion. More of an effort is needed.

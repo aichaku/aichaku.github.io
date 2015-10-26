@@ -2,6 +2,7 @@
 layout: post
 title: compulsory
 category: english
+date: 2015-08-10 00:00:00
 tags: [english, word]
 ---
 

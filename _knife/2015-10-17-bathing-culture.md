@@ -3,6 +3,7 @@ layout: post
 title: Bathing Culture
 category: english
 tags: [focus-simon, vocabulary]
+date: 2015-10-17 00:00:00
 ---
 
 ### [deteroirate][1]

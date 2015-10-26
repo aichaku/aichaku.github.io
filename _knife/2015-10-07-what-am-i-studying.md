@@ -3,6 +3,7 @@ layout: post
 title: What I am studying
 category: english
 tags: [speaking]
+date: 2015-10-07 00:00:00
 ---
 
 <p class="questions">

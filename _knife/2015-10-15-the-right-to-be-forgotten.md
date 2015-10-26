@@ -3,6 +3,7 @@ layout: post
 title: The Right To Be Forgotten
 category: english
 tags: [focus-simon, vocabulary]
+date: 2015-10-15 00:00:00
 ---
 
 ##### [public domain][1]

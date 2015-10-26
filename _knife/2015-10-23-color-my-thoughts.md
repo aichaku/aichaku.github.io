@@ -3,6 +3,7 @@ layout: post
 title: Color my thought
 category: english
 tags: [focus-simon]
+date: 2015-10-23 00:00:00
 ---
 
 Hope interesting events come my way. Under the influence of strong caffeine, I may make some mistakes.

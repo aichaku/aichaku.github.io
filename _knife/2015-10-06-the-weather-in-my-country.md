@@ -3,6 +3,7 @@ layout: post
 title: The weather in my country
 category: english
 tags: [speaking]
+date: 2015-10-06 00:00:00
 ---
 
 <p class="questions">

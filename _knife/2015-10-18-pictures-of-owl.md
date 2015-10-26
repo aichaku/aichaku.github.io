@@ -3,11 +3,12 @@ layout: post
 title: Pictures Of An Owl
 category: english
 tags: [9gag]
+date: 2015-10-18 00:00:00
 ---
 
 # [This cute tiny owl is too photogenic!][1]
 
-Which one is better to express about the above article? 
+Which one is better to express about the above article?
 
  1. By looking at the pictures, I found out that owls are so cute creatures.
  2. Through those pictures in the above link, I've realized that owls are so cute.

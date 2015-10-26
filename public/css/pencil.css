@@ -28,7 +28,6 @@ a {
 
 .post {
   padding: 30px;
-  border-radius: 3px;
   background-color: #fff;
 }
 
@@ -39,10 +38,10 @@ a {
 .post-title {
   font-weight: bold;
 }
-
+/*
 .page-title, .post-title, .post-title a {
     color: #4cc2bf;
-}
+}*/
 
 .post-category-label {
   color: #fff;
@@ -74,8 +73,7 @@ a {
 
 .container {
   max-width: 38rem;
-  padding-left:  1rem;
-  padding-right: 1rem;
+  padding:  3rem;
   margin-left:  280px;
 }
 

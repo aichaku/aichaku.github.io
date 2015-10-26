@@ -23,13 +23,14 @@ version:          2.0.0
 github:
   repo:           https://github.com/aichaku
 
+
 collections:
   knife:
     output: true
 
-defaults:
-  - scope:
-      path: ""
-      type: knife
-    values:
-      layout: page
+#defaults:
+#  - scope:
+#      path: ""
+#      type: knife
+#    values:
+#      layout: page
