@@ -79,6 +79,18 @@ a {
   margin-left:  280px;
 }
 
+.menu-list {
+  list-style: none;
+  padding: 10px 15px 10px 15px;
+  margin: 0px;
+}
+
+.menu {
+  border-bottom: 2px solid #efefef;
+  margin: 10px 25px 10px 5px;
+  border-top: 2px solid #efefef;
+}
+
 .sample-sentences .sample-sentence {
   background-color: #eee;
 }
