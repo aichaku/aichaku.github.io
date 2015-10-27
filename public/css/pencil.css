@@ -116,6 +116,7 @@ a, a:hover {
 @media (min-width: 56rem) {
   .menu {
     display: block;
+    margin-bottom: 3rem;
   }
 }
 
@@ -142,7 +143,7 @@ a, a:hover {
 @media (min-width: 56rem) {
   .container {
     max-width: 46rem;
-    padding:  3rem;
+    padding:  2.5rem;
     margin-left:  280px;
   }
 }
@@ -172,4 +173,11 @@ a, a:hover {
 .post-img {
   max-height: 400px;
   border: none;
+}
+
+#ad_floux {
+  width: inherit;
+  margin-top: 2rem;
+  /* border: 1px solid #000; */
+  padding: 0;
 }
