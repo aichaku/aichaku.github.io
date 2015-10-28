@@ -53,5 +53,8 @@ be forced in a corner(predicament)
 	[An Innovation recipe driven by Business, not just Technology][1]
 </div>
 
+### get lost in a story
+get lost는 길을 잃는 것을 말하는데, 여기에서는 이야기에 빠져 그 안에서 길을 잃는 것을 말하는 것이 아닐까 한다. 명령문으로 말하면 꺼져 라는 말이 된다. Go away인 것이지.
+
 [1]: https://www.linkedin.com/pulse/20141010140924-4526542-an-innovation-recipe-driven-by-business-not-just-technology
 [2]: http://forum.wordreference.com/threads/lift-vs-rise-vs-raise.465386/
