@@ -21,15 +21,13 @@ stay up == not go to bed.
 lift가 자주 쓰인다. 기분을 좋게 하는 것도 lift one's mood라고 쓸 수 있다. 의외로 자주 쓸 수 있는 단어인 것 같은데 raise, rise, escalate와 같은 단어와는 어떤 차이가 있을까? 물론 mood인 경우 찾아보니 raise를 쓸 수도 있고 다른 의미이긴 하지만 boost one's mood를 써도 된다. 기분을 좋게 만드는 데에는 많은 표현이 있구나. 본론으로 돌아가서 escalate는 다른 두 단어와는 조금 다르다. 무엇을 올리거나 들어올린다는 의미에서는 통하는 면이 있지만 이는 어떤 문제나 이슈를 좀더 높은 단계에서 다룰 수 있도록 한다는 측면에서 subject가 다르다고 할까? raise와 lift는 다음과 같은 의미 차이가 있다고 한다.
 
 <div class="sample-sentence">
-	These verbs mean to move something from a lower to a higher level or position. **Lift sometimes stresses the expenditure of effort:** a trunk too heavy to lift.<br/>
-	Raise often implies movement to an approximately vertical position: raised my hand so I could ask a question.<br/>
-	Elevate is sometimes synonymous with the preceding terms (elevated his sprained ankle), but it more often suggests exalting, ennobling, or raising morally or intellectually: "A generous and elevated mind is distinguished by nothing more certainly than an eminent degree of curiosity" (Samuel Johnson).<br/>
-	Hoist is applied principally to the lifting of heavy objects, often by mechanical means: hoist a sunken ship.<br/>
-	To heave is to lift or raise with great effort or force: heaved the pack onto his back.<br/>
-	Boost suggests upward movement effected by or as if by pushing from below: boosted the child into the saddle. See Also Synonyms at steal.<br/>
-	<br/>
-
-	Excerpted from [here][2]
+	<p>These verbs mean to move something from a lower to a higher level or position. <strong>Lift sometimes stresses the expenditure of effort</strong>: a trunk too heavy to lift.</p>
+	<p>Raise often implies movement to an approximately vertical position: raised my hand so I could ask a question.</p>
+	<p>Elevate is sometimes synonymous with the preceding terms (elevated his sprained ankle), but it more often suggests exalting, ennobling, or raising morally or intellectually: "A generous and elevated mind is distinguished by nothing more certainly than an eminent degree of curiosity" (Samuel Johnson).</p>
+	<p>Hoist is applied principally to the lifting of heavy objects, often by mechanical means: hoist a sunken ship.</p>
+	<p>To heave is to lift or raise with great effort or force: heaved the pack onto his back.</p>
+	<p>Boost suggests upward movement effected by or as if by pushing from below: boosted the child into the saddle. See Also Synonyms at steal.</p>
+	Excerpted from <a href="http://forum.wordreference.com/threads/lift-vs-rise-vs-raise.465386/">here</a>
 </div>
 
 ### 몰리다
