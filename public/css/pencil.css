@@ -181,3 +181,7 @@ a, a:hover {
   /* border: 1px solid #000; */
   padding: 0;
 }
+
+.nav-img {
+  max-height: 80px;
+}
