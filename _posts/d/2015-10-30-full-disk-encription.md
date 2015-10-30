@@ -7,6 +7,9 @@ tags: [fde, android, dm_crypt, vold]
 
 Developing an Android device gets gradually more difficult. As the security threats against Android devices are increasing, Google has adopted FDE since the release of Lollipop, which means Full Disk Encryption. The outline of this feature is like the following.
 
+<img class="post-img" src="http://techsolutionsmd.com/Security/images/FDE.png">
+This illustration shows the coverage of FDE.
+
 ### Every block disk has to be encrypted as a whole.
 In fact, this feature is not new. **[dm_crypt][1]** is one of the key security features in Linux since 2.6 version. As per dm_crypt, it is kind of a device mapper target, so it can see the whole area of a disk and encrpyt the data. It also has a range of advantages compared to its predecessor such as cryptoloop. However, I am not going to go there because it is out of the scope of this article. XTS, LRW and ESSIV are the keywords to understand how dm_crypt works. If you want more information regarding these theory, you might have to find them in another articles. Anyway, what I would like to say is that FDE is not a new technology, but a adaptation for Android to use Linux feature more effectively. FDE uses 128 or higer bits to make a encrypt key. By this key the whole disk will be scrambled and nobody can understand what the data is without the key.
 
