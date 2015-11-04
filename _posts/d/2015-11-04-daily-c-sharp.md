@@ -24,6 +24,7 @@ foreach (int i in a)
 Think of an array as a sequence of elements, all of which are the same type.
 
  * Sample code
+
 ```c#
 int[] a = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 };
 
@@ -43,10 +44,12 @@ for (int i = 0; i < a.Length; i++ )
 
 Interestingly, the following expression is possible in C# like the similar expression is so in Javascript. I am geussing that the type of the object is randomly named by compiler.
 
+
 ```c#
 var car = new { CodeName = "gorgeous lynda", Location = 4 };
 Console.WriteLine("{0}, {1}", car.CodeName, car.Location);
 ```
+
 
 ```c#
 var train = new { CodeName = "kerr", Location = 3 };
