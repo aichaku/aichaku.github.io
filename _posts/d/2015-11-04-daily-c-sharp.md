@@ -57,3 +57,8 @@ train = car;
 ```
 
 If every name and type of the member variable matches, assigning to other object is also possible.
+
+
+### Daily open source
+
+I found [this][https://github.com/khellang/scriptcs-editor] helpful to see how to use objects associated with collections. But I don't know how to deal with NuGet package manager, so I couldn't complie this.
