@@ -10,5 +10,5 @@ I write source code and engineer software to make life easier for everyone. If t
 
 Well. Actually the quote above was ramdomly picked from some random website. What describes me best is not the quote but the behavior.
 
-![]({{site.baseurl}}/https://s.yimg.com/uy/build/images/sohp/backgrounds/bottom5.jpg)
+![]({{site.baseurl}}//photo_introduction.png)
 
