@@ -1,8 +1,14 @@
 ---
 layout: page
 title: About
+published: true
 ---
 
-<p class="message">
-  My blog is still under construction. From time to time, I will change the look or the structure. If somebody find it difficult to keep track of a speficic page, please send me an e-mail[a.different.bit@gmail.com].
-</p>
+I write source code and engineer software to make life easier for everyone. If there is one thing that defines me best is this quote.
+
+> To be great is to be misunderstood. 
+
+Well. Actually the quote above was ramdomly picked from some random website. What describes me best is not the quote but the behavior.
+
+![]({{site.baseurl}}/https://s.yimg.com/uy/build/images/sohp/backgrounds/bottom5.jpg)
+
