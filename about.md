@@ -1,14 +1,18 @@
 ---
 layout: page
 title: About
-published: true
+permalink: /about/
+tags: about
 ---
 
-I write source code and engineer software to make life easier for everyone. If there is one thing that defines me best is this quote.
+1
+I write a source code.
 
-> To be great is to be misunderstood. 
+2
+In one episode of How I Met Your Mother, Barney introduced himself as Angelia Jolie of incredibly hot guys.
 
-Well. Actually the quote above was ramdomly picked from some random website. What describes me best is not the quote but the behavior.
+3
+Angelina Jolie can shoot a curving bullet in Wanted.
 
-![]({{site.baseurl}}/photo_introduction.png)
-
+4
+What Barney said is catchy, and I hope to deal with development tools in the way how Jolie did with her gun.
